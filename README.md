@@ -6,7 +6,7 @@ Pico8 things, nothing serious, just having fun playing around
 
 [Nerdyteachers platformer](https://nerdyteachers.com/Explain/Platformer/) implementation
 
-~[animated gif to wonky gameplay](images/wonky.gif)
+![animated gif to wonky gameplay](images/wonky.gif)
 
 ## bunny.p8
 
